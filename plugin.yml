@@ -1,0 +1,12 @@
+name: Man10moneypot
+version: 1.0.0
+main: red.man10.Man10moneypot
+commands:
+  man10moneypot:
+    description: Man10moneypot
+    usage: /<command>
+    default: op
+  mmp:
+    description: Man10moneypot
+    usage: /<command>
+    default: op
